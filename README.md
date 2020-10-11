@@ -1,0 +1,2 @@
+# pyfunny
+very funny python
